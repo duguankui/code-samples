@@ -1,0 +1,1 @@
+dotnet run --project OpenIddict.Demo --migrate-database
